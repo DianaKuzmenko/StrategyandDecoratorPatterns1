@@ -1,5 +1,5 @@
 /**
- * Created by cs.ucu.edu.ua on 10/17/2016.
+ * Created by Diana on 17/3/16.
  */
 public class FlowerSpec {
     protected FlowerColor color;
